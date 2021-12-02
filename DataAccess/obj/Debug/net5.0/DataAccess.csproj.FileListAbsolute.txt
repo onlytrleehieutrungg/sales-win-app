@@ -1,0 +1,16 @@
+C:\Users\trung\source\repos\Assgment02\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\trung\source\repos\Assgment02\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\trung\source\repos\Assgment02\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\trung\source\repos\Assgment02\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\trung\source\repos\Assgment02\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\trung\source\repos\Assgment02\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\trung\source\repos\Assgment02\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\trung\source\repos\Assgment02\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\source\repos\Assgment02\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\trung\source\repos\Assgment02\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\trung\source\repos\Assgment02\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\Assgment02\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\trung\source\repos\Assgment02\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\trung\source\repos\Assgment02\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\trung\source\repos\Assgment02\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\trung\source\repos\Assgment02\DataAccess\bin\Debug\net5.0\appsettings.json
